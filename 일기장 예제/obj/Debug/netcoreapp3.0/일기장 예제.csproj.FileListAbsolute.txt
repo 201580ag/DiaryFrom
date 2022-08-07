@@ -1,0 +1,7 @@
+C:\Users\minec\source\repos\일기장 예제\일기장 예제\obj\Debug\netcoreapp3.0\일기장 예제.csproj.AssemblyReference.cache
+C:\Users\minec\source\repos\일기장 예제\일기장 예제\obj\Debug\netcoreapp3.0\일기장_예제.Form1.resources
+C:\Users\minec\source\repos\일기장 예제\일기장 예제\obj\Debug\netcoreapp3.0\일기장 예제.csproj.GenerateResource.cache
+C:\Users\minec\source\repos\일기장 예제\일기장 예제\obj\Debug\netcoreapp3.0\일기장 예제.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minec\source\repos\일기장 예제\일기장 예제\obj\Debug\netcoreapp3.0\일기장 예제.AssemblyInfoInputs.cache
+C:\Users\minec\source\repos\일기장 예제\일기장 예제\obj\Debug\netcoreapp3.0\일기장 예제.AssemblyInfo.cs
+C:\Users\minec\source\repos\일기장 예제\일기장 예제\obj\Debug\netcoreapp3.0\일기장 예제.csproj.CoreCompileInputs.cache
